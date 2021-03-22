@@ -1,5 +1,5 @@
 # digitalprofile
-Gopi Krishna Boddu
+Gopi Krishna 
 ============
 
 -------------------     ----------------------------
